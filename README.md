@@ -3,6 +3,10 @@
 
 Modified versions of Foamgasm's BCAR for Milsig M79
 
+*** AT YOUR OWN RISK ***
+--- I have not tested these yet ---
+
+
 ![image](/images/Milsig-M79-BCAR.png)
 
 These have been modified to suit Milsig stock barrels with an M18x1.0 RH thread on the end.
