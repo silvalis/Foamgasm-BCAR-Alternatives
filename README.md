@@ -1,28 +1,17 @@
-# Foamgasm Lynx Mods
-Mods for the Orion Lynx blaster
+# Foamgasm Bearing SCAR Alternatives
 
-![image](https://user-images.githubusercontent.com/33273931/142133628-3b84a365-102c-4ad1-a6dc-da28af6b33f6.png)
 
-Pump with integral foregrip and knurling.  With and without Lynx logo.
-  
-![image](https://user-images.githubusercontent.com/33273931/147861594-fec3dc4b-9738-47b4-973f-6dd13fe228a0.png)
+Modified versions of Foamgasm's BCAR for Milsig M79
 
-Picatinny foregrip with knurling.  Uses two each M4 x 30 screw and M4 nut.
+![image](/images/Milsig-M79-BCAR.png)
 
-Grip backstrap with knurling.  May be used on foregrip or receiver.
+These have been modified to suit Milsig stock barrels with an M18x1.0 RH thread on the end.
 
-![image](https://user-images.githubusercontent.com/33273931/142133326-425931e9-8a80-49aa-89ba-89475432176d.png)
+Two versions are available, Standard and Deadspace
 
-BCAR for use specifically on Lynx blasters with 16mm OD barrel.
+The deadspace version was created based on theory where having a full dart gap between the end of the barrel and the start of the bearing will avoid fishtailing - the dart will not begin to twist until it has fully left the barrel. Unsure if it works in practice.
 
-![image](https://user-images.githubusercontent.com/33273931/142246619-2608f94c-daed-4449-b745-f4105d3f5a29.png)
-![image](https://user-images.githubusercontent.com/33273931/142246660-f25e1bde-2589-4c16-b608-df0a19d79367.png)
 
-Mounting for 40cm and 45cm barrels.
-
-![BCAR Collet 15°](https://user-images.githubusercontent.com/33273931/155583522-93ce72b0-15b2-4a15-a7f0-f1733ad63b45.png)
-
-Collet mounting for any 16mm OD barrel.  Suitable for 47cm (18.5") or longer Lynx barrels.
 
 All BCARs use:
 
