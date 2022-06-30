@@ -11,13 +11,16 @@ Two versions are available, Standard and Deadspace
 
 The deadspace version was created based on theory where having a full dart gap between the end of the barrel and the start of the bearing will avoid fishtailing - the dart will not begin to twist until it has fully left the barrel. Unsure if it works in practice.
 
-
+---------------
 
 All BCARs use:
 
   (9) F683ZZ flanged bearings https://www.amazon.com/gp/product/B07Z3DRZX9
   
   (9) 3mm x 14mm dowel pins https://www.amazon.com/gp/product/B0819FZM8F
+
+
+---------------
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
