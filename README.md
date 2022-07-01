@@ -1,7 +1,7 @@
-# Foamgasm Bearing SCAR Alternatives
+# Foamgasm Bearing SCAR Threaded Alternatives
 
 
-Modified versions of Foamgasm's BCAR for Milsig M79 and JET Barrels
+Threaded versions of Foamgasm's BCAR for Milsig M79 and JET Barrels
 
 ![image](/images/Threaded-BCARs.png)
 
