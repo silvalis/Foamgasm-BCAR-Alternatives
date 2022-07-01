@@ -1,11 +1,14 @@
 # Foamgasm Bearing SCAR Alternatives
 
 
-Modified versions of Foamgasm's BCAR for Milsig M79
+Modified versions of Foamgasm's BCAR for Milsig M79 and JET Barrels
 
-![image](/images/Milsig-M79-BCAR.png)
+![image](/images/Threaded-BCARs.png)
 
-These have been modified to suit Milsig stock barrels with an M18x1.0 RH thread on the end.
+These have been modified to suit various threaded barrels.
+
+1) Milsig stock barrels with an M18x1.0 RH thread
+2) Jet barrel with 0.625" UNF thread
 
 Two versions are available, Standard and Deadspace
 
