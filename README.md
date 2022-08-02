@@ -31,6 +31,11 @@ All BCARs use:
 
 ---------------
 
+If you like my work, please buy me a coffee!
+https://www.buymeacoffee.com/silvalisdesigns
+
+---------------
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
