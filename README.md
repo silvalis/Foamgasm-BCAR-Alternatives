@@ -14,6 +14,12 @@ Two versions are available, Standard and Deadspace
 
 The deadspace version was created based on theory where having a full dart gap between the end of the barrel and the start of the bearing will avoid fishtailing - the dart will not begin to twist until it has fully left the barrel. Unsure if it works in practice.
 
+
+---------------
+
+03/08/2022: 9/16 Friction fit version added. Ribs added to assist with fitting.
+
+
 ---------------
 
 All BCARs use:
